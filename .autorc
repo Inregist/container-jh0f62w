@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Inregist",
+  "repo": "container-jh0f62w",
+  "name": "Inregist",
+}
